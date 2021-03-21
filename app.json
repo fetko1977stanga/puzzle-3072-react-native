@@ -1,0 +1,12 @@
+{
+  "name": "Puzzle3072",
+  "displayName": "Puzzle3072",
+  "expo": {
+    "name": "Puzzle3072",
+    "slug": "Puzzle3072",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
